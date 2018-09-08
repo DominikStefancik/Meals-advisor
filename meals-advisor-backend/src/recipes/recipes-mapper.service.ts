@@ -22,9 +22,8 @@ export class RecipesMapperService {
         newRecipe.ingredients = ingredientsData.data;
       });
 
-    const properties = this.recipesService.getCuisineAndThemes(recipe.id);
-    newRecipe.cuisines.push(properties["cuisine"]);
-    newRecipe.themes.push(properties["themes"]);
+    newRecipe.cuisines = this.recipesService.getCuisines(recipe.id);
+    newRecipe.themes = this.recipesService.getThemes(recipe.id);
 
     return newRecipe;
   }

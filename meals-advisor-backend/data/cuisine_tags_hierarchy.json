@@ -1,0 +1,296 @@
+[
+  {
+    "ID": "167",
+    "parentID": "",
+    "EN_GB": "European",
+    "DE_CH": "Europäisch"
+  },
+  {
+    "ID": "171",
+    "parentID": "",
+    "EN_GB": "African",
+    "DE_CH": "Afrikanisch"
+  },
+  {
+    "ID": "168",
+    "parentID": "",
+    "EN_GB": "Asian",
+    "DE_CH": "Asiatisch"
+  },
+  {
+    "ID": "170",
+    "parentID": "",
+    "EN_GB": "North American",
+    "DE_CH": "Nordamerikanisch"
+  },
+  {
+    "ID": "169",
+    "parentID": "",
+    "EN_GB": "South American",
+    "DE_CH": "Südamerikanisch"
+  },
+  {
+    "ID": "172",
+    "parentID": "",
+    "EN_GB": "Oceanian",
+    "DE_CH": "Ozeanisch"
+  },
+  {
+    "ID": "173",
+    "parentID": "168",
+    "EN_GB": "Middle Eastern",
+    "DE_CH": "Mittelöstlich"
+  },
+  {
+    "ID": "409",
+    "parentID": "168",
+    "EN_GB": "South-East Asian",
+    "DE_CH": "Südostasiatisch"
+  },
+  {
+    "ID": "237",
+    "parentID": "168",
+    "EN_GB": "South Asian",
+    "DE_CH": "Südasiatisch"
+  },
+  {
+    "ID": "175",
+    "parentID": "169",
+    "EN_GB": "Peruvian",
+    "DE_CH": "Peruanisch"
+  },
+  {
+    "ID": "182",
+    "parentID": "169",
+    "EN_GB": "Brazilian",
+    "DE_CH": "Brasilianisch"
+  },
+  {
+    "ID": "174",
+    "parentID": "173",
+    "EN_GB": "Persian",
+    "DE_CH": "Persisch"
+  },
+  {
+    "ID": "238",
+    "parentID": "237",
+    "EN_GB": "Pakistani",
+    "DE_CH": "Pakistanisch"
+  },
+  {
+    "ID": "180",
+    "parentID": "237",
+    "EN_GB": "Indian",
+    "DE_CH": "Indisch"
+  },
+  {
+    "ID": "410",
+    "parentID": "409",
+    "EN_GB": "Malaysian",
+    "DE_CH": "Malaysisch"
+  },
+  {
+    "ID": "185",
+    "parentID": "409",
+    "EN_GB": "Thai",
+    "DE_CH": "Thailändisch"
+  },
+  {
+    "ID": "413",
+    "parentID": "171",
+    "EN_GB": "North African",
+    "DE_CH": "Nordafrikanisch"
+  },
+  {
+    "ID": "186",
+    "parentID": "413",
+    "EN_GB": "Moroccan",
+    "DE_CH": "Marokkanisch"
+  },
+  {
+    "ID": "414",
+    "parentID": "171",
+    "EN_GB": "Southern African",
+    "DE_CH": "Südlichafrikanisch"
+  },
+  {
+    "ID": "415",
+    "parentID": "171",
+    "EN_GB": "East African",
+    "DE_CH": "Ostafrikanisch"
+  },
+  {
+    "ID": "416",
+    "parentID": "171",
+    "EN_GB": "West African",
+    "DE_CH": "Westafrikanisch"
+  },
+  {
+    "ID": "417",
+    "parentID": "171",
+    "EN_GB": "Central African",
+    "DE_CH": "Zentralafrikanisch"
+  },
+  {
+    "ID": "418",
+    "parentID": "168",
+    "EN_GB": "East Asian",
+    "DE_CH": "Ostasiatisch"
+  },
+  {
+    "ID": "419",
+    "parentID": "168",
+    "EN_GB": "Central Asian",
+    "DE_CH": "Zentralasiatisch"
+  },
+  {
+    "ID": "420",
+    "parentID": "168",
+    "EN_GB": "West Asian",
+    "DE_CH": "Westasiatisch"
+  },
+  {
+    "ID": "421",
+    "parentID": "167",
+    "EN_GB": "Southern European",
+    "DE_CH": "Südeuropäisch"
+  },
+  {
+    "ID": "177",
+    "parentID": "421",
+    "EN_GB": "Italian",
+    "DE_CH": "Italienisch"
+  },
+  {
+    "ID": "422",
+    "parentID": "167",
+    "EN_GB": "Western European",
+    "DE_CH": "Westeuropäisch"
+  },
+  {
+    "ID": "234",
+    "parentID": "422",
+    "EN_GB": "German",
+    "DE_CH": "Deutsch"
+  },
+  {
+    "ID": "423",
+    "parentID": "167",
+    "EN_GB": "Eastern European",
+    "DE_CH": "Osteuropäisch"
+  },
+  {
+    "ID": "424",
+    "parentID": "167",
+    "EN_GB": "Northern European",
+    "DE_CH": "Nordeuropäisch"
+  },
+  {
+    "ID": "425",
+    "parentID": "170",
+    "EN_GB": "Caribbean",
+    "DE_CH": "Karibisch"
+  },
+  {
+    "ID": "176",
+    "parentID": "425",
+    "EN_GB": "Cuban",
+    "DE_CH": "Kubanisch"
+  },
+  {
+    "ID": "426",
+    "parentID": "170",
+    "EN_GB": "Central American",
+    "DE_CH": "Mittelamerikanisch"
+  },
+  {
+    "ID": "427",
+    "parentID": "424",
+    "EN_GB": "Scandinavian",
+    "DE_CH": "Skandinavisch"
+  },
+  {
+    "ID": "428",
+    "parentID": "424",
+    "EN_GB": "Baltic",
+    "DE_CH": "Baltisch"
+  },
+  {
+    "ID": "429",
+    "parentID": "421",
+    "EN_GB": "Iberian",
+    "DE_CH": "Iberisch"
+  },
+  {
+    "ID": "430",
+    "parentID": "429",
+    "EN_GB": "Spanish",
+    "DE_CH": "Spanisch"
+  },
+  {
+    "ID": "431",
+    "parentID": "422",
+    "EN_GB": "Swiss",
+    "DE_CH": "Schweizerisch"
+  },
+  {
+    "ID": "432",
+    "parentID": "422",
+    "EN_GB": "Austrian",
+    "DE_CH": "Österreichisch"
+  },
+  {
+    "ID": "433",
+    "parentID": "414",
+    "EN_GB": "South African",
+    "DE_CH": "Südafrikanisch"
+  },
+  {
+    "ID": "434",
+    "parentID": "429",
+    "EN_GB": "Portuguese",
+    "DE_CH": "Portugiesisch"
+  },
+  {
+    "ID": "581",
+    "parentID": "180",
+    "EN_GB": "North Indian",
+    "DE_CH": "Nordindisch"
+  },
+  {
+    "ID": "582",
+    "parentID": "173",
+    "EN_GB": "Turkish",
+    "DE_CH": "Türkisch"
+  },
+  {
+    "ID": "583",
+    "parentID": "173",
+    "EN_GB": "Lebanese",
+    "DE_CH": "Libanesisch"
+  },
+  {
+    "ID": "585",
+    "parentID": "409",
+    "EN_GB": "Vietnamese",
+    "DE_CH": "Vietnamesisch"
+  },
+  {
+    "ID": "586",
+    "parentID": "409",
+    "EN_GB": "Indonesian",
+    "DE_CH": "Indonesisch"
+  },
+  {
+    "ID": "587",
+    "parentID": "586",
+    "EN_GB": "Balinese",
+    "DE_CH": "Balinesisch"
+  },
+  {
+    "ID": "588",
+    "parentID": "414",
+    "EN_GB": "Malawian",
+    "DE_CH": "Malawisch"
+  }
+]

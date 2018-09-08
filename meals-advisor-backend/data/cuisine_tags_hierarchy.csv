@@ -1,0 +1,50 @@
+﻿ID,parentID,EN_GB,DE_CH 
+167,,European,Europäisch 
+171,,African,Afrikanisch 
+168,,Asian,Asiatisch 
+170,,North American,Nordamerikanisch 
+169,,South American,Südamerikanisch 
+172,,Oceanian,Ozeanisch 
+173,168,Middle Eastern,Mittelöstlich 
+409,168,South-East Asian,Südostasiatisch 
+237,168,South Asian,Südasiatisch 
+175,169,Peruvian,Peruanisch 
+182,169,Brazilian,Brasilianisch 
+174,173,Persian,Persisch 
+238,237,Pakistani,Pakistanisch 
+180,237,Indian,Indisch 
+410,409,Malaysian,Malaysisch 
+185,409,Thai,Thailändisch 
+413,171,North African,Nordafrikanisch 
+186,413,Moroccan,Marokkanisch 
+414,171,Southern African,Südlichafrikanisch 
+415,171,East African,Ostafrikanisch 
+416,171,West African,Westafrikanisch 
+417,171,Central African,Zentralafrikanisch 
+418,168,East Asian,Ostasiatisch 
+419,168,Central Asian,Zentralasiatisch 
+420,168,West Asian,Westasiatisch 
+421,167,Southern European,Südeuropäisch 
+177,421,Italian,Italienisch 
+422,167,Western European,Westeuropäisch 
+234,422,German,Deutsch 
+423,167,Eastern European,Osteuropäisch 
+424,167,Northern European,Nordeuropäisch 
+425,170,Caribbean,Karibisch 
+176,425,Cuban,Kubanisch 
+426,170,Central American,Mittelamerikanisch 
+427,424,Scandinavian,Skandinavisch 
+428,424,Baltic,Baltisch 
+429,421,Iberian,Iberisch 
+430,429,Spanish,Spanisch 
+431,422,Swiss,Schweizerisch 
+432,422,Austrian,Österreichisch 
+433,414,South African,Südafrikanisch 
+434,429,Portuguese,Portugiesisch 
+581,180,North Indian,Nordindisch 
+582,173,Turkish,Türkisch 
+583,173,Lebanese,Libanesisch 
+585,409,Vietnamese,Vietnamesisch 
+586,409,Indonesian,Indonesisch 
+587,586,Balinese,Balinesisch 
+588,414,Malawian,Malawisch
