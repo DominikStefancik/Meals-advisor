@@ -36,7 +36,7 @@ export class RecipesService {
         }));
   }
 
-  getCuisines(id: string) {
+  getCuisines(id: string): string[] {
     if (!this.recipesDict) {
       this.initRecipeDictionary();
     }
@@ -68,7 +68,7 @@ export class RecipesService {
     return themes;
   }
 
-  private initRecipeDictionary() {
+  private initRecipeDictionary(): void {
     const recipesArray = JSON.parse(
       readFileSync(join(__dirname, "../../data/recipes.json"), { encoding: "utf-8"}),
     );
@@ -79,7 +79,7 @@ export class RecipesService {
     });
   }
 
-  private initCuisinesParentsDict() {
+  private initCuisinesParentsDict(): void {
     const cuisinesArray = JSON.parse(
       readFileSync(join(__dirname, "../../data/cuisine_tags_hierarchy.json"), { encoding: "utf-8"}),
     );
